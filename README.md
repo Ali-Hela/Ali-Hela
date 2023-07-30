@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my college graduation project
 - 🌱 I’m currently learning Linux, Docker
 - 📫 How to reach me: ali2h@protonmail.com
-- ⚡ Fun fact: I can solve a Rubik's cube
+- ⚡ Fun fact: Bananas are berries, but strawberries are not.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
