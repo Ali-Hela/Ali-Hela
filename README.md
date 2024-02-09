@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my college graduation project
-- 🌱 I’m currently learning Linux, Docker
-- 📫 How to reach me: itsalihela@gmail.com
+- 🔭 I’m currently working on my graduation project
+<!-- - 🌱 I’m currently learning -->
+- 📫 How to reach me: 52052529+Ali-Hela@users.noreply.github.com
 - ⚡ Fun fact: Bananas are berries, but strawberries are not.
 <!--
 - 👯 I’m looking to collaborate on ...
